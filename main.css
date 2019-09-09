@@ -1,0 +1,15 @@
+.bit{
+	font-size: 40px;
+	font-style: cursive;
+}
+.bitname{
+	font-size: 30px;
+}
+.nameinput{
+	size: 300px;
+	border-radius: 40%;
+}
+.submit{
+	background-color: blue;
+	border-radius: 30px;
+}
